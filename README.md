@@ -1,0 +1,2 @@
+# LINEAR_REGRESSION
+LINEAR REGRESSION of rent per person
